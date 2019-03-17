@@ -1,6 +1,6 @@
 {
   "name": "generate-strong-password",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "https://github.com/bermi/password-generator#example-with-custom-validation-rules",
   "main": "index.js",
   "scripts": {
