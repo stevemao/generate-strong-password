@@ -35,5 +35,5 @@ function customPassword() {
   return password;
 }
 
+module.exports = customPassword
 module.exports.isStrongEnough = isStrongEnough
-module.exports.customPassword = customPassword

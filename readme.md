@@ -7,3 +7,8 @@ Password:
 * Must contain at least three lowercase letters
 * Must contain at least two special characters
 * Must NOT contain sequences of two or more repeated characters
+
+```js
+const generateStrongPassword = require('generate-strong-password');
+console.log(generateStrongPassword()); // => 2hP5v?1KKNx7_a-W
+```
